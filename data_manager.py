@@ -41,7 +41,6 @@ class CardsManager:
             self.save_deck()
 
     def rate_card_by_content(self, card: Dict[str, Any], difficulty: str):
-        """Rate card by content dict (for GUI callbacks)."""
         if card in self.flashcards:
             index = self.flashcards.index(card)
             self.rate_card(index, difficulty)
