@@ -1,0 +1,52 @@
+[
+  {
+    "front": "Ja",
+    "back": "Yes",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Katze",
+    "back": "Cat",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Guten Morgen",
+    "back": "Good morning",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Nein",
+    "back": "No",
+    "difficulty": "easy"
+  },
+  {
+    "front": "Bitte",
+    "back": "Please / You're welcome",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Hund",
+    "back": "Dog",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Buch",
+    "back": "Book",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Auf Wiedersehen",
+    "back": "Goodbye",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Danke",
+    "back": "Thank you",
+    "difficulty": "medium"
+  },
+  {
+    "front": "Hallo",
+    "back": "Hello",
+    "difficulty": "easy"
+  }
+]
